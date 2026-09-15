@@ -87,6 +87,34 @@ Two boundaries are worth calling out. The **AI provider abstraction** means the 
 
 The production implementation is maintained in a private source repository. This public repository is a portfolio and case-study presentation, not a source mirror.
 
+## Screenshots
+
+All captured from the live demo.
+
+**Marketing site**
+
+![Vela landing page](docs/screenshots/landing.png)
+
+**Dashboard** — the weekly AI brief, live match scores, pipeline attention, and resume health.
+
+![Vela dashboard](docs/screenshots/dashboard.png)
+
+**Resume Studio** — per-resume ATS scoring, section coverage, and template variants.
+
+![Vela Resume Studio](docs/screenshots/resume-studio.png)
+
+**Jobs** — match scoring with readable reasons and concerns, plus scam-risk signals.
+
+![Vela jobs](docs/screenshots/jobs.png)
+
+**Analytics** — funnel, response rate, and interview rate derived from the application pipeline.
+
+![Vela analytics](docs/screenshots/analytics.png)
+
+**Pricing** — Free, Pro, and Premium tiers backed by database entitlements.
+
+![Vela pricing](docs/screenshots/pricing.png)
+
 ## Engineering Highlights
 
 - **Explainable matching.** Match scoring returns reasons and concerns rather than a bare percentage, so a score can be argued with instead of trusted blindly.
