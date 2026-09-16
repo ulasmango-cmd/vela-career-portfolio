@@ -115,6 +115,12 @@ All captured from the live demo.
 
 ![Vela pricing](docs/screenshots/pricing.png)
 
+**On mobile** — the workspace is responsive down to a 390px viewport: drawer navigation, stacked cards, and horizontally scrollable tab strips. Verified with zero horizontal overflow across all 16 application routes.
+
+| Dashboard | Settings | Applications |
+| :---: | :---: | :---: |
+| ![Vela dashboard on mobile](docs/screenshots/mobile-dashboard.png) | ![Vela settings on mobile](docs/screenshots/mobile-settings.png) | ![Vela applications on mobile](docs/screenshots/mobile-applications.png) |
+
 ## Engineering Highlights
 
 - **Explainable matching.** Match scoring returns reasons and concerns rather than a bare percentage, so a score can be argued with instead of trusted blindly.
